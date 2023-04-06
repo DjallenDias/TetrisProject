@@ -1,0 +1,18 @@
+I am doing that just to improve and test my skills.
+
+=======----- Things to do and already done -----=======
+
+Done
+    Show the game area: *
+    Update the game area: *
+    Make the block come down: *
+    Move block: *
+
+To do
+    Stop blocks at the bottom: x
+    Stop block when it touches another: x
+    Create types of blocks (like original tetris): x
+    Make the new types of blocks rotate: x
+    Make the new types of block stop when it touches anoter: x
+    
+I am not sure about the code quality, but i know it can be improved.
